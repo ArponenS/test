@@ -1,0 +1,29 @@
+# Palvelinten Hallinta H3 
+
+Raportoin Tero Karvisen palvelinten hallintakurssin Harjoitusta 3
+
+Käytän harjoituksessa pöytäkonetta, jossa Virtualboxiin on asennettuna
+
+Aloitin tehtävän päivittämällä koneen komennoilla
+
+##### -sudo apt-get update 
+
+ja
+
+##### -sudo apt-get upgrade 
+
+## h3 Versionhallinta 
+
+a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. 
+Tyhjä rivi tekee kappalejaon, risuaita ‘#’ tekee otsikon, sisennys merkitsee koodinpätkän. 
+
+ 
+d) Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset. 
+
+ 
+e) Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset –hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia. 
+
+
+f) Tee uusi salt-moduli. Voit asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman.
+Käytä tarvittaessa ‘find -printf “%T+ %p\n”|sort’ löytääksesi uudet asetustiedostot. (Tietysti eri ohjelma kuin aiemmissa tehtävissä, tarkoitushan on harjoitella Salttia) 
+
