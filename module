@@ -1,0 +1,8 @@
+
+<p>setxkbmap fi</p>
+<p>sudo apt-get update</p>
+<p>sudo apt-get -y install git salt-minion</p>
+<p>echo 'master: localhost'|sudo tee /etc/salt/minion</p>
+<p>git clone https://github.com/ArponenS/Module</p>
+<p>cd module/</p>
+<p>bash module.sh</p>
