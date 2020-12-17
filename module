@@ -1,3 +1,6 @@
+#!/bin/bash
+# Original by Tero Karvinen Copyright 2018 Tero Karvinen http://TeroKarvinen.com GPL 3
+# Github: https://github.com/terokarvinen/sirotin/blob/master/run.sh
 
 <p>setxkbmap fi</p>
 <p>sudo apt-get update</p>
